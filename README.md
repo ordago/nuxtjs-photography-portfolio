@@ -1,4 +1,7 @@
-# sergioperea-photo-portfolio-2021
+# Nuxt.js Photography Portfolio Template
+
+> Hi I'm Sergio Perea. I am Computer Engineer and Photographer.
+> I used this template to develop my photography portfolio: https://fotografia.sergioperea.net/
 
 ## Build Setup
 
