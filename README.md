@@ -1,7 +1,9 @@
 # Nuxt.js Photography Portfolio Template
 
+Welcome to the Photography Template built in Nuxt! This project is aimed at providing a complete, ready-to-use template for photographers to showcase their work in a simple yet elegant manner.
+
 > Hi I'm Sergio Perea. I am Computer Engineer and Photographer.
-> I used this template to develop my photography portfolio: https://fotografia.sergioperea.net/
+> I used this template to develop my photography portfolio: https://fotografia.sperea.es/
 
 ## Build Setup
 
@@ -70,3 +72,21 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+
+### Features
+* Responsive design for tablets and mobiles
+* Lightbox for viewing images in full size
+* Metadata loaded from a JS file, easy to modify
+* SEO friendly
+* Contributing
+
+I appreciate any contribution you make to this project. Please refer to the CONTRIBUTING.md for more details.
+
+### License
+This project is licensed under the MIT License. See the LICENSE.md file for details.
+
+### Support
+If you encounter any problems or have any suggestions, please open an issue on the GitHub repository.
+
+### Acknowledgements
+Thank you for considering using or contributing to this project. We appreciate your support!
