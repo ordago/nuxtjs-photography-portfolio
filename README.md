@@ -3,7 +3,7 @@
 Welcome to the Photography Template built in Nuxt! This project is aimed at providing a complete, ready-to-use template for photographers to showcase their work in a simple yet elegant manner.
 
 > Hi I'm Sergio Perea. I am Computer Engineer and Photographer.
-> I used this template to develop my photography portfolio: https://fotografia.sperea.es/
+> I used this template to develop my photography portfolio: https://photography.sperea.es
 
 ## Build Setup
 
